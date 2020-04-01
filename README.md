@@ -1,0 +1,1 @@
+To fix another package, this module creates the alias tensorflow_core for tensorflow
